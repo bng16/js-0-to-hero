@@ -1,3 +1,7 @@
 let name="biswajit nag";
 
-let arr=[1,0.1,"hi",[1,2,3,4]]
+let arr=[1,"hi",[1,2,3,4]]
+
+console.log(arr)
+
+console.log(...arr);
