@@ -14,5 +14,7 @@ function vartry() {
     console.log(vaar)
 }
 
-let sum=((a,b)=>(a+b))(1,2)
+let sum=((a,b)=>(a+b))(1,2);
 console.log(sum)
+
+let b=3
