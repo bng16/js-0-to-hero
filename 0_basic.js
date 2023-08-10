@@ -1,3 +1,4 @@
+const name = "Biswajit Nag"
 let name="biswajit nag";
 
 let arr=[1,"hi",[1,2,3,4]]
@@ -12,3 +13,6 @@ var vaar=5;
 function vartry() {
     console.log(vaar)
 }
+
+let sum=((a,b)=>(a+b))(1,2)
+console.log(sum)
